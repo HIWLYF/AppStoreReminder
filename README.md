@@ -1,5 +1,5 @@
 # App Store Reminder
-[中文版本](https://github.com/ookcode/AppStoreReminder/blob/master/README_zh.md)
+[中文版本](https://github.com/HIWLYF/AppStoreReminder/blob/master/README_zh.md)
 ## Introduction
 Did you want to get a notification when your favorite apps cut price,updated,or out off the shelf in the appstore?
 This Script Help you to monitor these apps.
